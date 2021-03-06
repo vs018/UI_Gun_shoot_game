@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Gun_shoot_game", "UI_Gun_shoot_game.csproj", "{4A402DB6-5E6A-4352-BFD3-90A4B51E2FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GunShoot_unitTesting", "GunShoot_unitTesting\GunShoot_unitTesting.csproj", "{FAA94B3B-F835-46C3-87A3-A0AC36934C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A402DB6-5E6A-4352-BFD3-90A4B51E2FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A402DB6-5E6A-4352-BFD3-90A4B51E2FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A402DB6-5E6A-4352-BFD3-90A4B51E2FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A402DB6-5E6A-4352-BFD3-90A4B51E2FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA94B3B-F835-46C3-87A3-A0AC36934C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA94B3B-F835-46C3-87A3-A0AC36934C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA94B3B-F835-46C3-87A3-A0AC36934C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA94B3B-F835-46C3-87A3-A0AC36934C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3738CD7-A78A-4239-9417-E3BFFD1680F2}
+	EndGlobalSection
+EndGlobal
